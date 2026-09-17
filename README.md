@@ -17,9 +17,19 @@ IMPORTANT: While the original Shapiro Time Delay test(which was only proposed in
 
 # Controls
 
-LMB + Drag - Drag the camera around.\n
+LMB + Drag - Drag the camera around.
+
 MWS Up - Zoom in.
+
 MWS Out - Zoom out.
+
+# Dependencies 
+
+Graphics API: OpenGL 3.3 (Core Profile).
+
+GUI Framework: Dear ImGui
+
+Windowing, Camera & Math: GLFW, GLAD, GLM
 
 
 
