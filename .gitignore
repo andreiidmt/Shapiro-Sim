@@ -67,3 +67,10 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+x64/ 
+ReleasePackage/ 
+*.iss 
+*.vcxproj 
+Shapiro Sim.vcxproj.filters 
+Shapiro Sim.vcxproj.user 
+imgui.ini 
