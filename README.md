@@ -29,7 +29,11 @@ Graphics API: OpenGL 3.3 (Core Profile).
 
 GUI Framework: Dear ImGui
 
-Windowing, Camera & Math: GLFW, GLAD, GLM
+Windowing & Input: GLFW
+
+OpenGL Extension Loader: GLAD
+
+Maths: GLM
 
 
 
