@@ -17,7 +17,7 @@ IMPORTANT: While the original Shapiro Time Delay test(which was only proposed in
 
 # Controls
 
-LMB + Drag - Drag the camera around.
+LMB + Drag - Drag the camera around.\n
 MWS Up - Zoom in.
 MWS Out - Zoom out.
 
