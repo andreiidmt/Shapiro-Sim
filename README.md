@@ -15,9 +15,7 @@ The application features a very simple yet modern interface: on the left can be 
 
 IMPORTANT: While the original Shapiro Time Delay test(which was only proposed in 1964) did NOT take into account black holes, I have decided to use a non-rotating Schwarzschild black hole to portray that light can be captured and therefore, never arrive at its destination. In today's age, however, theoretical physicists use the Shapiro delay equations to calculate how light bends and delays near different types of black holes (like spinning Kerr black holes or charged Reissner-Nordström holes) to see if we can tell them apart by their light echoes.
 
-
-https://github.com/user-attachments/assets/d53219f0-3c69-4467-8f7f-f71f56705426
-
+https://github.com/user-attachments/assets/65daca32-03ae-4a41-bea2-c9459b133edc
 
 # Controls
 
